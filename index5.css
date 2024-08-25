@@ -135,6 +135,8 @@ body {
 		overflow-y: hidden;
 	}
 
+	/* Почему то в разрешении для планшетов появляются куски элементов. Я не понял почему */
+
 	.swiper-brands__slide {
 		min-width: 240px;
 		max-width: none;
